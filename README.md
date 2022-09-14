@@ -19,7 +19,7 @@ $ python IFCV2.py
 ![deskripsi gambar](https://i.ibb.co/Lgyq2sv/IMG_20220915_004806.png)
 
 Gambar hanya pemanis selebihnya cobain sendiri 🐕
-````
+
 #### Update tools
 ``` bash
 $ cd IFCV2
