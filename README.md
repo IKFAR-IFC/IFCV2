@@ -15,10 +15,9 @@ $ git clone https://github.com/IKFAR-IFC/IFCV2
 $ cd IFCV2
 $ python IFCV2.py
 ```
-#### Hasil 🔥
-![deskripsi gambar](https://i.ibb.co/Lgyq2sv/IMG_20220915_004806.png)
-
-Gambar hanya pemanis selebihnya cobain sendiri 🐕
+### Menu
+ <img src="https://github.com/IKFAR-IFC/IFCV2/blob/main/IMG_20220915_004806.jpg" width="440" title="Menu" alt="Menu">
+</p>
 
 #### Update tools
 ``` bash
